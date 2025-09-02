@@ -64,9 +64,6 @@ I enjoy building projects and exploring new technologies.
     <img src="https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
 </p>
----
 
-<p align="center"> 
-  Visitor Count:  
-  <img src="https://profile-counter.glitch.me/Tanmay2912/count.svg" />
-</p>
+
+

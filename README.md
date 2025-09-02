@@ -50,7 +50,8 @@ I enjoy building projects and exploring new technologies.
 ---
 
 ## 📫 Connect with Me  
-- 🌐 GitHub: [Tanmay2912](https://github.com/Tanmay2912)  
+- 🌐 GitHub: [Tanmay2912](https://github.com/Tanmay2912)
+- 🧩 LeetCode: [TanmaySingh29](https://leetcode.com/u/TanmaySingh29/)  
 - 💼 LinkedIn: [Tanmay Singh](https://linkedin.com/in/tanmay-singh-375806290)  
 - 📧 Email: tanmayyashu29@gmail.com  
 

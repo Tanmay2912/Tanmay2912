@@ -51,15 +51,19 @@ I enjoy building projects and exploring new technologies.
 
 ## 📫 Connect with Me  
 <p align="center">
+  <a href="https://github.com/Tanmay2912">
+    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://linkedin.com/in/tanmay-singh-375806290">
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
   <a href="https://leetcode.com/u/TanmaySingh29/">
     <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
   </a>
+  <a href="mailto:tanmayyashu29@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
 </p>
-- 🌐 GitHub: [Tanmay2912](https://github.com/Tanmay2912)
-- 🧩 LeetCode: [TanmaySingh29](https://leetcode.com/u/TanmaySingh29/)  
-- 💼 LinkedIn: [Tanmay Singh](https://linkedin.com/in/tanmay-singh-375806290)  
-- 📧 Email: tanmayyashu29@gmail.com  
-
 ---
 
 <p align="center"> 

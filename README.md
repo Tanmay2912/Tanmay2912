@@ -50,6 +50,11 @@ I enjoy building projects and exploring new technologies.
 ---
 
 ## 📫 Connect with Me  
+<p align="center">
+  <a href="https://leetcode.com/u/TanmaySingh29/">
+    <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
+  </a>
+</p>
 - 🌐 GitHub: [Tanmay2912](https://github.com/Tanmay2912)
 - 🧩 LeetCode: [TanmaySingh29](https://leetcode.com/u/TanmaySingh29/)  
 - 💼 LinkedIn: [Tanmay Singh](https://linkedin.com/in/tanmay-singh-375806290)  

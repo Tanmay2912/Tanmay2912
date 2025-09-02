@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Tanmay Singh  
 
-🚀 A Software Engineering student passionate about **Java, Web Development, and Problem Solving**.  
+🚀 A third year software engineering student passionate about **Java, Web Development, and Problem Solving**.  
 I enjoy building projects and exploring new technologies.
 
 ---
